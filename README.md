@@ -7,9 +7,12 @@ https://github.com/chao325/QmaoTai
 https://github.com/chao325/MaoTai_GUIT
 
 主要目的是用来抢茅台的，他在代码里故意注明：“注意：此代码为原作者代码，已失效。”
+
 ![image](https://github.com/thodison/chao325_pianzi/assets/6095282/8d2850e0-bfe7-49f6-a5d9-3efefd404240)
 
+
 既然无效了还不删除留着干啥？为了引流？果然如此，往下看就有他的邮箱，他的目的是筛选出目标客户。再往下看就有他的邮箱：zcsupercn@foxmail.com
+
 ![image](https://github.com/thodison/chao325_pianzi/assets/6095282/2e1c07c2-d440-45bf-bc40-498cef7f10aa)
 
 
