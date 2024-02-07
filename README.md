@@ -1,5 +1,6 @@
 # chao325_pianzi
-1. chao325就是一个骗子，在Github上引流诈骗，让你以为他的代码能抢到茅台，其实根本没用。他在github上的账号是zcsupercn@foxmail.com，他的邮箱：zcsupercn@foxmail.com，他用来诈骗的QQ：1323014335
+
+1. chao325(https://github.com/chao325/)就是一个骗子，在Github上引流诈骗，让你以为他的代码能抢到茅台，其实根本没用。他在github上的账号是chao325，他的邮箱：zcsupercn@foxmail.com，他用来诈骗的QQ：1323014335
 
 2. 这里是他的代码：
 https://github.com/chao325/QmaoTai
